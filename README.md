@@ -17,3 +17,14 @@
 
 # Experiments
 😩💃🥴
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Command+Q (Quit App)
+- Command+Shift+4 (Screenshot Selected Area)
+- Command+Space (Spotlight Search)
+
+Shortcuts I would like to start using: 
+- Command+Tab (Task Switcher)
+- Command+H (Hide Window)
+- Command+Comma (Preferences for Front App)
