@@ -29,4 +29,4 @@ Shortcuts I would like to start using:
 - Command+H (Hide Window)
 - Command+Comma (Preferences for Front App)
 
-[cli commands except im bad at explaining them](lorem-ipsum/cli.md)
+[cli commands except im bad at explaining them](docs/cli.md)
