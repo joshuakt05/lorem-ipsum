@@ -28,3 +28,5 @@ Shortcuts I would like to start using:
 - Command+Tab (Task Switcher)
 - Command+H (Hide Window)
 - Command+Comma (Preferences for Front App)
+
+[cli commands except im bad at explaining them(lorem-ipsum/cli.md)]
